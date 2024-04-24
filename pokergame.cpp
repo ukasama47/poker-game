@@ -1,4 +1,4 @@
-//1211201118 林優花
+
 #include "report-3-1211201118_pokergame.h"
 #include <iostream>
 #include <cstdlib>
