@@ -1,4 +1,4 @@
-//1211201118 林優花
+
 #include "report-3_poker.h"
 
 class PokerGame : public Poker {
