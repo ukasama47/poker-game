@@ -1,4 +1,4 @@
-//1211201118 林優花
+
 class Poker {
 
 protected:
